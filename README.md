@@ -1,21 +1,30 @@
 <!-- GitHub Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehran-Seifalinia&show_icons=true&theme=radical)
+![Mehran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehran-Seifalinia&show_icons=true&theme=radical)
 
 # Hi there! I'm Mehran Seifalinia 👋
-I'm a passionate tech enthusiast with a strong focus on Python programming and web penetration testing. I firmly believe in the value of continuous learning, and I am always eager to take on new challenges that foster personal and professional growth.
+I'm a passionate tech enthusiast specializing in **Python programming** and **web penetration testing**. I believe in the value of continuous learning, and I thrive on tackling new challenges that drive both personal and professional growth.
 
-## My Skills & Interests 🚀
-- **Python programming:** As an avid Python developer, I enjoy leveraging the language's versatility and power to create innovative solutions.
-- **Web penetration testing:** Ensuring digital security is crucial, and I love exploring and identifying vulnerabilities to enhance web application safety.
-- **Open-source contributions:** I actively contribute to open-source projects, fostering collaboration and sharing knowledge within the community.
-- **Cybersecurity & privacy:** With a strong commitment to online safety, I am dedicated to understanding and implementing cybersecurity best practices.
+## 💡 My Skills & Interests
+- **Python Programming:** I leverage Python’s versatility and power to build scalable solutions and improve existing systems.
+- **Web Penetration Testing:** Passionate about digital security, I explore vulnerabilities to ensure web applications are safe from malicious threats.
+- **Open-Source Contributions:** Actively contributing to open-source projects and collaborating with the community to share knowledge and best practices.
+- **Cybersecurity & Privacy:** Dedicated to staying ahead of cyber threats, I work towards securing online spaces and promoting privacy for all users.
 
 <!-- Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehran-Seifalinia&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Let's Connect! 🤝
-Feel free to get in touch with me through the following channels:
-- **Email:** mehran.seifalinia@gmail.com 📧
+## 🌐 Let's Connect!
+Feel free to reach out through any of these channels:
+- **Email:** [mehran.seifalinia@gmail.com](mailto:mehran.seifalinia@gmail.com) 📧
 - **LinkedIn:** [Mehran Seifalinia](https://ir.linkedin.com/in/mehran-seifalinia-63577a1b6) 💼
 
-Thanks for visiting my GitHub profile! I'm always open to collaboration and feedback, so don't hesitate to reach out. Let's connect and make the most of this exciting journey together! 🌟
+## 🛠️ Technologies & Tools
+Here are some of the tools and technologies I regularly use:
+- **Languages**: Python, JavaScript, Bash
+- **Frameworks**: Flask, Django, Playwright
+- **Security Tools**: Burp Suite, OWASP ZAP, Kali Linux
+- **DevOps**: Docker, Jenkins, Kubernetes
+- **Databases**: SQLite, PostgreSQL
+
+## 📈 GitHub Activity
+Thanks for visiting my GitHub profile! I’m always open to collaboration, discussions, and new challenges. Let’s connect and explore opportunities to work together! 🌟
